@@ -1,1 +1,1 @@
-github.com/share309/gin_cha
+github.com/share309/gin_chat
